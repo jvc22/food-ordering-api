@@ -7,7 +7,8 @@
     "build": "bun build src/http/server.ts",
     "start": "NODE_ENV=production bun src/http/server.ts",
     "test": "bun test",
-    "drizzle:generate": "drizzle-kit generate"
+    "drizzle:generate": "drizzle-kit generate",
+    "drizzle:migrate": "bun src/db/migrate.ts"
   },
   "devDependencies": {
     "bun-types": "latest",
