@@ -10,7 +10,8 @@
     "drizzle:generate": "drizzle-kit generate",
     "drizzle:migrate": "bun src/db/migrate.ts",
     "drizzle:seed": "bun src/db/seed.ts",
-    "drizzle:studio": "drizzle-kit studio"
+    "drizzle:studio": "drizzle-kit studio",
+    "lint": "eslint --fix src --ext ts"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
