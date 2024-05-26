@@ -16,6 +16,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "elysia": "^0.8.17"
+    "drizzle-orm": "^0.30.10",
+    "elysia": "^0.8.17",
+    "postgres": "^3.4.4"
   }
 }
