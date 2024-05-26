@@ -15,6 +15,20 @@
       "when": 1716754937366,
       "tag": "0001_white_payback",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1716755184578,
+      "tag": "0002_slow_loners",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1716755290361,
+      "tag": "0003_simple_newton_destine",
+      "breakpoints": true
     }
   ]
 }
